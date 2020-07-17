@@ -15,6 +15,6 @@ Workshop Code: GQSRQF<br>
 ## "Blotify Premium Sub" Item+Event
 Made an event based on an item parody of Spotify using the in-game Mod Tool<br>
 Created the art for a new item with Photoshop and wrote the dialogue for its event<br>
-![Mod Image](Images/MonsterProm/MP2.PNG)<br>
-![Mod Image](Images/MonsterProm/MP1.PNG)<br>
+![Event Image](Images/Overwatch/OW1.PNG)<br>
+![Event Image](Images/MonsterProm/MP1.PNG)<br>
 [Steam Workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=2094099960)
