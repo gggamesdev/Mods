@@ -9,6 +9,7 @@ When a player dies their team's score is reduced by one and their hero becomes u
 When a player dies and their team's score is less than the players in their team they enter spectate instead of respawning<br>
 The team who reaches a score of 0(meaning they run out of heroes) first loses the game<br>
 Workshop Code: GQSRQF<br>
+https://workshop.codes/GQSRQF<br>
 ![Workshop Image](Images/Overwatch/OW1.PNG)<br>
 ![Workshop Image](Images/Overwatch/OW2.PNG)<br>
 # Monster Prom:
